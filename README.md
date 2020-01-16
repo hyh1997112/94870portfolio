@@ -7,9 +7,9 @@ This portfolio is for the course of Telling Stories with Data - Spring 2020.
 
 ## About me
 
-```My name is Yuhan He
-```
-```
+Name: Yuhan He.
+E-mail: yuhanh@andrew.cmu.edu
+
 
 ## Usage
 
