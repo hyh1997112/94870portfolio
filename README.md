@@ -12,14 +12,9 @@ E-mail: yuhanh@andrew.cmu.edu
 
 
 ## Usage
+This website is used for showing the data visualization for course 94870.
 
-```
-```
 
-## Contributing
+## Portfolio 
 
-PRs accepted.
-
-## License
-
-MIT © Richard McRichface
+Here is the data visualization I will complete for this course!
