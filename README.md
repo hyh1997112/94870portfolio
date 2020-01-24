@@ -10,9 +10,9 @@ This portfolio is for the course of Telling Stories with Data - Spring 2020.
 > [The link to the Assignment 2](https://hyh1997112.github.io/94870portfolio/assignment2)
 
 ## About me
-
-Name: Yuhan He.
-E-mail: yuhanh@andrew.cmu.edu
+A student in MISM-Global program at Carnegie Mellon University.
+- Name: Yuhan He.
+- E-mail: yuhanh@andrew.cmu.edu
 
 
 ## Usage
