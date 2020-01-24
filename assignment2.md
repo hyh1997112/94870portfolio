@@ -28,6 +28,7 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 2. The bar chart could only show the general debt of each country in a specific year but fail to show the change and comparisons between years. The beeswarm use the size of dot to illustrate the amount of the general debt of each country in each year, which is quite clear. Compared with the beeswarm plot, area graph could make the reader know the change between years consistently.
 3. The bar chart use just two colors, and user could choose to highlight the data from several countries via making it red. The black-white beeswarm plot could show the quantity difference but fails to distingush different countrys that the color version does. The area graph could both show the change through time and distingush the difference amoung countires.
 - Reason for the third chart
+
 First, the area chart can distinguish different countries by color, just like the second chart. Secondly, it can also show the amount of debt by the width of the bar. At the same time, the area map is continuous in time and can show the changes in the general debt of each country. In addition, with regard to color, countries with more national debts use warm colors to represent, and data of less national debts are represented with cool colors. This choice is also in line with readers' logic.
 ### Contributing
 
