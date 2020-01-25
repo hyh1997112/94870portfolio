@@ -29,8 +29,15 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 3. The bar chart use just two colors, and user could choose to highlight the data from several countries via making it red. The black-white beeswarm plot could show the quantity difference but fails to distingush different countrys that the color version does. The area graph could both show the change through time and distingush the difference amoung countires.
 - Reason for the third chart
 
-First, the area chart can distinguish different countries by color, just like the second chart. Secondly, it can also show the amount of debt by the width of the bar. At the same time, the area map is continuous in time and can show the changes in the general debt of each country. In addition, with regard to color, countries with more national debts use warm colors to represent, and data of less national debts are represented with cool colors. This choice is also in line with readers' logic.
+First, the area chart can distinguish different countries by color, just like the second chart. 
+
+Secondly, it can also show the amount of debt by the width of the bar. At the same time, the area map is continuous in time and can show the changes in the general debt of each country. 
+
+In addition, with regard to color, countries with more national debts use warm colors to represent, and data of less national debts are represented with cool colors. This choice is also in line with readers' logic.
 ### Contributing
 
 The tool used for the visualization [RAWGraphs](https://app.rawgraphs.io/)
 Data source [OECD Data](https://data.oecd.org/)
+## Part 3: Working with Tableau
+
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 735px;'><object class='tableauViz' width='1440' height='735' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;yuhanssite' /><param name='name' value='Generaldebt&#47;GeneralDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
