@@ -14,7 +14,14 @@ A student in MISM-Global program at Carnegie Mellon University.
 - Name: Yuhan He.
 - E-mail: yuhanh@andrew.cmu.edu
 
-
+## What I hope to learn
+● Familiarity with data visualization and information design theory, fundamentals, and
+ethics – e.g., accuracy, honesty, and transparency
+● Understanding of design and user-experience (UX) principles – e.g., Gestalt principles,
+cognitive biases, color psychology
+● Comfort with data visualization and design process
+● Experimentation with prominent data visualization tools to understand best fits and
+limitations
 ## Usage
 This website is used for showing the data visualization for course 94870.
 
