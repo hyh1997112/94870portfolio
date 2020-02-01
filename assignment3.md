@@ -5,7 +5,7 @@
 - The embedded code does not work for this file, so I just paste the link here:
 - [Critique Data Source - Tableau Public](https://public.tableau.com/views/UniversityAdvancementDonationsandGiving/Dashboard1?:display_count=y&:origin=viz_share_link)
 - Author: himaja ravi
-OriginalVis.png
+[image](https://github.com/hyh1997112/94870portfolio/blob/master/images/OriginalVis.png)
 - Data source: [Tableau Public](https://public.tableau.com/en-gb/s/resources) University Advancement, Donations, and Giving
 This is a table of donations made to Universities in the United States. The donation amounts and locations in this data set are not real as they are intended for training purposes only.
 
