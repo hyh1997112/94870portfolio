@@ -11,7 +11,6 @@ This is a table of donations made to Universities in the United States. The dona
 
 ## Step two: critique the data visualization
 
-
 ## Step three: wireframe a solution
 
 ## Step four: Test the solution
