@@ -35,10 +35,8 @@ It only shows some information about university donations. However, the message 
 The first two pictures have too many colors, making it difficult for the audience to find the point that the author wants to express.
 In addition, the size difference of each bubble in the bubble chart is not very large, and it is difficult for the audience to understand the author's intention to put this picture.
 
-What, if anything, would you do differently? 
-I'll replace the bar graph showing the total donation with a line chart so that I can see the change in total donations more clearly between years. 
-At the same time, I will not use so many colors to distract the audience, but use gray appropriately to represent the less important data.
-Highest Donations by College and Donations by Major have similarities in the information they want to express to a certain extent. If they are modified, I will keep only one of the two pictures and replace the other with other data. For instance, use the gift allocation data to create the fourth chart.
+- What, if anything, would you do differently? 
+- I'll replace the bar graph showing the total donation with a line chart so that I can see the change in total donations more clearly between years. At the same time, I will not use so many colors to distract the audience, but use gray appropriately to represent the less important data. Highest Donations by College and Donations by Major have similarities in the information they want to express to a certain extent. If they are modified, I will keep only one of the two pictures and replace the other with other data. For instance, use the gift allocation data to create the fourth chart.
 
 - Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
 - The audience is mainly school staff who manage donations and other information or state officials who manage donations to schools. For example, the staff of the government education department.
