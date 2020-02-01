@@ -46,7 +46,7 @@ I do not think this visualization is effective for reaching that audience. First
 - This method is quite successful at evaluating the data visualisation I selected. I would recommend to add the layout and color evaluation. Because in a dashboard, the consistency of color and harmony is quite significant. If the chart contains uncoordinated color, the audiences' focus might be distracted. For the layout, it is very significant to make the whole dashboard logically fluent. Thus, I would like to recommend to add these two evaluation standards.
 
 ## Step three: wireframe a solution
-
+![Wireframe](https://github.com/hyh1997112/94870portfolio/blob/master/images/Wireframe.png)
 ## Step four: Test the solution
 
 ## Step five: Build your solution
