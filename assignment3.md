@@ -7,7 +7,7 @@
 - Author: himaja ravi
 - Data source: [Tableau Public](https://public.tableau.com/en-gb/s/resources) University Advancement, Donations, and Giving
 This is a table of donations made to Universities in the United States. The donation amounts and locations in this data set are not real as they are intended for training purposes only.
-- ![Origin Screenshot](https://drive.google.com/file/d/1fR8E2lnnSXqAWExNCE-eEcWSHRy3qDtb/view?usp=sharing)
+- ![Origin Screenshot](images/OriginalVis.png)
 
 ## Step two: critique the data visualization
 - Email address: yuhanh@andrew.cmu.edu
