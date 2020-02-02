@@ -50,29 +50,41 @@ I do not think this visualization is effective for reaching that audience. First
 ## Step four: Test the solution
 Feedback 1:
 - Can you tell me what you think this is? Can you describe to me what this is telling you?
+
 The content of the expression is not very clear. The title should be more distinctive, indicating whether it is a donation from all schools in the United States or a school.
 - Is there anything you find surprising or confusing?
+
 Note the horizontal and vertical units. It is confusing of the units of the amount.
 - Is there anything you would change or do differently?
+
 I think piechart should use different colors, because it is not a progressive relationship
  
 Feedback2:
 - Is there anything you find surprising or confusing?
+
 It is very neat, there are many types of graphics. The topographic map is quite confusing. I don't know what it wants to express.
-- Who do you think is the intended audience for this?  
+- Who do you think is the intended audience for this?
+
 The audience may be the school leader.
 - Is there anything you would change or do differently?
+
 I will add some legends and comments.
  
 
 ## Step five: Build your solution
-Take the feedback you've received on your proposed solution, modify your design and then build a solution.  You are free to use any of the tools we've covered so far.  You should post the following to your portfolio page: 
-
 1. A link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include a short paragraph on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source.  
+
+- The embedded code does not work for this file, so I just paste the link here:
+- [Critique Data Source - Tableau Public](https://public.tableau.com/views/UniversityAdvancementDonationsandGiving/Dashboard1?:display_count=y&:origin=viz_share_link)
+- Author: himaja ravi
+- Data source: [Tableau Public](https://public.tableau.com/en-gb/s/resources) University Advancement, Donations, and Giving
+This is a table of donations made to Universities in the United States. The donation amounts and locations in this data set are not real as they are intended for training purposes only.
+- ![Origin Screenshot](images/OriginalVis.png)
+
+I found the source of this data from tableau and someone visualized it. I found this visualization case on tableau public. Although this visualization case uses a variety of icons and many colors, the information it wants to express is not clear. In addition, too many legends on the sides can easily confuse viewers. I don't think this is a good visualization paradigm.
 
 2. A couple paragraphs describing what your process was.  You should include a few insights you gained from the critique method, and what it led you to think about when considering a redesign, if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback.  If it led you to change anything about your data visualization's design, mention what that was.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
-You can also include screenshots of your wireframes or other artifacts with your narrative if it helps tell the story of how you moved through the process. 
 
 3.  Your final data visualization!
 ![image](images/finalvis.png)
