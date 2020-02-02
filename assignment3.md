@@ -49,12 +49,21 @@ I do not think this visualization is effective for reaching that audience. First
 ![Wireframe](images/Wireframe.png)
 ## Step four: Test the solution
 Feedback 1:
+- Can you tell me what you think this is? Can you describe to me what this is telling you?
 The content of the expression is not very clear. The title should be more distinctive, indicating whether it is a donation from all schools in the United States or a school.
-Note the horizontal and vertical units.
+- Is there anything you find surprising or confusing?
+Note the horizontal and vertical units. It is confusing of the units of the amount.
+- Is there anything you would change or do differently?
 I think piechart should use different colors, because it is not a progressive relationship
-
+ 
 Feedback2:
-It is very neat, there are many types of graphics, the topographic map does not understand well, I don't know what I want to express, the audience may be the school leader, I will add some legends and comments.
+- Is there anything you find surprising or confusing?
+It is very neat, there are many types of graphics. The topographic map is quite confusing. I don't know what it wants to express.
+- Who do you think is the intended audience for this?  
+The audience may be the school leader.
+- Is there anything you would change or do differently?
+I will add some legends and comments.
+ 
 
 ## Step five: Build your solution
 Take the feedback you've received on your proposed solution, modify your design and then build a solution.  You are free to use any of the tools we've covered so far.  You should post the following to your portfolio page: 
