@@ -66,6 +66,4 @@ Take the feedback you've received on your proposed solution, modify your design 
 You can also include screenshots of your wireframes or other artifacts with your narrative if it helps tell the story of how you moved through the process. 
 
 3.  Your final data visualization!
-
-Make sure to visit your public page to ensure the visualization and content is rendering correctly. 
-## Go further (optional)...
+![image](images/finalvis.png)
