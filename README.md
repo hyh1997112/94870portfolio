@@ -4,7 +4,9 @@ This portfolio is for the course of Telling Stories with Data - Spring 2020.
 # Introduction
 
 > This is an website for course 94870 Telling Stories with Data.
-
+> <a href="https://hyh1997112.github.io/94870portfolio/" target="_blank">Open the website in a new tab</a>
+> <a href="https://hyh1997112.github.io/94870portfolio/assignment2" target="_blank">Open the assignment2 in a new tab</a>
+> <a href="https://hyh1997112.github.io/94870portfolio/assignment3" target="_blank">Open the assignment3 in a new tab</a>
 > [Access the website click here](https://hyh1997112.github.io/94870portfolio/)
 
 > [The link to the Assignment 2](https://hyh1997112.github.io/94870portfolio/assignment2)
