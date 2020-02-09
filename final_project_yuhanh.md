@@ -32,7 +32,8 @@ In this project, I would like to visualize the career report of MISM global trac
 * The main data used in this project is derived from this.
 
 Data source:
-> [The data is mainly selected from EMPLOYMENT INFORMATION & SALARY STATISTICS on the official website of heinz.](https://www.heinz.cmu.edu/current-students/career-services/employment-information-salary-statistics)
+> [EMPLOYMENT INFORMATION & SALARY STATISTICS](https://www.heinz.cmu.edu/current-students/career-services/employment-information-salary-statistics)
+
 Also find the pdf file in the github repository.
 > [Github link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
 
