@@ -21,6 +21,20 @@ In this project, I would like to visualize the career report of MISM global trac
 
 
 ## The data
+* The main source of data is the official heinz website. On the website, you can see the employment statistics of MISM global students from 2014 to 2019 as of May.
+* The content of the report is mainly presented in text form. The main information is as follows.
+1. The number of students in the project.
+2. The number of graduated students.
+3. The number of students who have an offer in the statistics.
+4. The company, position and location of the student offer.
+5. Statistics about wages.
+6. Geographical distribution.
+* The main data used in this project is derived from this.
+
+Data source:
+> [The data is mainly selected from EMPLOYMENT INFORMATION & SALARY STATISTICS on the official website of heinz.](https://www.heinz.cmu.edu/current-students/career-services/employment-information-salary-statistics)
+Also find the pdf file in the github repository.
+> [Github link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
 
 ## Method and medium
 The final visualization, I want to use **shorthand** to render.
