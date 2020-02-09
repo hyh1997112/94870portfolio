@@ -17,6 +17,8 @@ In this project, I would like to visualize the career report of MISM global trac
 * Thus, further analysis of the specific circumstances of admissions received by previous students is needed to increase the employment rate. For example, large companies like fb, google, etc. take students in this directory. As well as the positions that students have been accepted into.
 * By summarizing the above information, provide some suggestions and guidance for students of MISM global project and general mism project.
 
+<div class="infogram-embed" data-id="f5c92d3e-fb8f-4c34-9086-3687464026e4" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f5c92d3e-fb8f-4c34-9086-3687464026e4" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 ## Initial sketches
 
 
