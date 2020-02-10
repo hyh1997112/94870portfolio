@@ -45,13 +45,11 @@ In this project, I would like to visualize the career report of MISM global trac
 Data source:
 > [EMPLOYMENT INFORMATION & SALARY STATISTICS](https://www.heinz.cmu.edu/current-students/career-services/employment-information-salary-statistics)
 
-Also find the pdf file in the github repository.
-> [Github link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
-
 > [OFLC Performance Data](https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2019/H-1B_Selected_Statistics_FY2019_Q4.pdf)
 
 Also find the pdf file in the github repository.
-> [Github link](https://github.com/hyh1997112/94870portfolio/blob/master/data/H-1B_Selected_Statistics_FY2019_Q4.pdf)
+> [Heinz data link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
+> [OFLC data link](https://github.com/hyh1997112/94870portfolio/blob/master/data/H-1B_Selected_Statistics_FY2019_Q4.pdf)
 
 ## Method and medium
 The final visualization, I want to use **shorthand** to render.
