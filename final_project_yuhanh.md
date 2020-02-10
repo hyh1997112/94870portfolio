@@ -47,6 +47,9 @@ Also find the pdf file in the github repository.
 
 > [OFLC Performance Data](https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2019/H-1B_Selected_Statistics_FY2019_Q4.pdf)
 
+Also find the pdf file in the github repository.
+> [Github link](https://github.com/hyh1997112/94870portfolio/blob/master/data/H-1B_Selected_Statistics_FY2019_Q4.pdf)
+
 ## Method and medium
 The final visualization, I want to use **shorthand** to render.
 
