@@ -22,8 +22,13 @@ In this project, I would like to visualize the career report of MISM global trac
 ## Initial sketches
 
 
+<iframe src="https://e.infogram.com/538c7b9b-fa41-4a35-a306-0d64ce586e11?src=embed" title="Sketch" width="700" height="3800" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 640px"><a href="https://infogram.com/538c7b9b-fa41-4a35-a306-0d64ce586e11" style="color:#989898!important;text-decoration:none!important;" target="_blank">Sketch</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+
 ## The data
 * The main source of data is the official heinz website. On the website, you can see the employment statistics of MISM global students from 2014 to 2019 as of May.
+* The information dilivery by the report is mainly on text. However, the data could be converted to numbers so that is is better for the audience to understand the report easily.
 * The content of the report is mainly presented in text form. The main information is as follows.
 1. The number of students in the project.
 2. The number of graduated students.
