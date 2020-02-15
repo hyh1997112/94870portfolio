@@ -4,6 +4,7 @@
 
 # Part II: Wireframes, storyboards, moodboards and user research
 ## Wirefames / storyboard for user feedback
+![wireframe](images/fin_wireframe.png)
 ## Creation of a user research protocol and completion of at least three interviews
 ## Revised wireframes / visualizations / storyboards based on what you heard
 ## moodboards and personas
