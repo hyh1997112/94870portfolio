@@ -13,6 +13,8 @@ This portfolio is for the course of Telling Stories with Data - Spring 2020.
 
 > [The link to the Final project Part 1 page](https://hyh1997112.github.io/94870portfolio/final_project_yuhanh)
 
+> [The link to the Final project Part 2 page](https://hyh1997112.github.io/94870portfolio/final_project_part2)
+
 ## About me
 A student in MISM-Global program at Carnegie Mellon University.
 - Name: Yuhan He.
