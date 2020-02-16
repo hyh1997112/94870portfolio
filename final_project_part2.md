@@ -7,7 +7,8 @@
 - ![wireframe](images/Fin_wireframe.png)
 ## User research
 ### User research protocol
-- a
+- a target audience
+* I have three main target audiences: The first category is the current MISM-Global students. Through the employment reports of graduated students in the past, they can adjust your own job hunting strategies accordingly. The second category is students who want to apply for the MISM-Global program. Knowing more specific employment information can help them decide whether to apply for the program. The third category is the instructors of the Employment Service Office. Through the analysis of past employment reports, the instructors can make better suggestions in the process of students finding jobs.
 - b
 - c
 - d
