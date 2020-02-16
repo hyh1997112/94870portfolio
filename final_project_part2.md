@@ -15,4 +15,4 @@
 - e
 ### Documented finding
 ## Revised wireframes / visualizations / storyboards based on what you heard
-- ![wireframe2](images/Fin_wireframe2.png)
+- ![wireframe2](images/Wireframe2.png)
