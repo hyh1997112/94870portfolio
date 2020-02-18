@@ -1,4 +1,4 @@
-# 94870 Telling Stories with Data
+# Telling Stories with Data
 This portfolio is for the course of Telling Stories with Data - Spring 2020.
 
 # Introduction
