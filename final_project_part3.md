@@ -38,6 +38,8 @@ In this project, I would like to visualize the career report of MISM global trac
 6. Geographical distribution.
 * The main data used in this project is derived from this.
 * Data from Office of Foreign Labor Certification (OFLC) should be used to give some suggestions to the students.
+* Average salary data.
+* Some pictures from Unsplash are used in shorthands to make the page more pretty.
 
 ### Data resources (Part I)
 
@@ -50,6 +52,16 @@ Also find the pdf file in the github repository.
 > [Heinz data link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
 
 > [OFLC data link](https://github.com/hyh1997112/94870portfolio/blob/master/data/H-1B_Selected_Statistics_FY2019_Q4.pdf)
+
+Picture source:
+- [Photo 1](https://unsplash.com/photos/kOuCX7fh50U) Photo by Free To Use Sounds on Unsplash
+- [Photo 2](https://unsplash.com/photos/SYTO3xs06fU) Photo by Marvin Meyer on Unsplash
+- [Photo 3](https://unsplash.com/photos/7Zb7kUyQg1E) Photo by Dan Freeman on Unsplash
+- [Photo 4](https://unsplash.com/photos/J5R1KnBE4M4) Photo by Yuhan Du on Unsplash
+- [Photo 5](https://unsplash.com/photos/8lnbXtxFGZw) Photo by Sharon McCutcheon on Unsplash
+- [Photo 6](https://unsplash.com/photos/pKpipZVVEC0) Photo by Annie Spratt on Unsplash
+- [Photo 7](https://unsplash.com/photos/hpjSkU2UYSU) Photo by Carlos Muza on Unsplash
+- [Photo 8](https://unsplash.com/photos/5fNmWej4tAA) Photo by Helloquence on Unsplash
 
 ### method and medium - Part I
 
