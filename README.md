@@ -1,10 +1,11 @@
 # Telling Stories with Data
 This portfolio is for the course of Telling Stories with Data - Spring 2020.
-There are some data visualization examples in this portfolio.
+
+There are some data visualization practices in this portfolio.
 
 # Introduction
 
-> This is an website for course 94870 Telling Stories with Data.
+> This is an website for course Telling Stories with Data. Here are some links of visualization tasks.
 
 > [Access the website click here](https://hyh1997112.github.io/Data-Visualization/)
 
