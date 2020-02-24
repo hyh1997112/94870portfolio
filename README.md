@@ -5,7 +5,7 @@ There are some data visualization practices in this portfolio.
 
 # Introduction
 
-> This is an website for course Telling Stories with Data. Here are some links of visualization tasks.
+> Here are some links for visualization tasks.
 
 > [Access the website click here](https://hyh1997112.github.io/Data-Visualization/)
 
@@ -25,9 +25,18 @@ There are some data visualization practices in this portfolio.
 A student in MISM-Global program at Carnegie Mellon University.
 - Name: Yuhan He.
 - E-mail: yuhanh@andrew.cmu.edu
+- Graduating in May 2020.
 
-## What I hope to learn
-- 
+## Courses took
+- 94870 Telling Stories with Data
+- 10601 Machine Learning
+- 17637 Web Application Development
+- 95702 Distributed System for Information System Management
+- 17681 Java for Application Programmer
+
+## What I have learned from 94870 Telling Stories with Data
+- Tools:
+- Skills:
 - Familiarity with data visualization and information design theory, fundamentals, and
 ethics – e.g., accuracy, honesty, and transparency
 
