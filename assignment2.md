@@ -2,7 +2,7 @@
 This page is for the dita visualization for assignment 2.
 
 
-> [Access the homepage click here](https://hyh1997112.github.io/94870portfolio/)
+> [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 ## Part 1: Working with web-based visualization tools and data
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 
@@ -41,6 +41,3 @@ In addition, with regard to color, countries with more national debts use warm c
 
 The tool used for the visualization [RAWGraphs](https://app.rawgraphs.io/)
 Data source [OECD Data](https://data.oecd.org/)
-## Part 3: Working with Tableau
-
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 735px;'><object class='tableauViz' width='1440' height='735' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;yuhanssite' /><param name='name' value='Generaldebt&#47;GeneralDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
