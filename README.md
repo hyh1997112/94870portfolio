@@ -6,17 +6,17 @@ There are some data visualization examples in this portfolio.
 
 > This is an website for course 94870 Telling Stories with Data.
 
-> [Access the website click here](https://hyh1997112.github.io/94870portfolio/)
+> [Access the website click here](https://hyh1997112.github.io/Data-Visualization/)
 
-> [The link to the Assignment 2](https://hyh1997112.github.io/94870portfolio/assignment2)
+> [The link to the visualization practice](https://hyh1997112.github.io/Data-Visualization/assignment2)
 
-> [The link to the Assignment 3](https://hyh1997112.github.io/94870portfolio/assignment3)
+> [The link to the visualization critiques](https://hyh1997112.github.io/Data-Visualization/assignment3)
 
-> [The link to the Final project Part 1 page](https://hyh1997112.github.io/94870portfolio/final_project_yuhanh)
+> [The link to the Final project Part 1 page](https://hyh1997112.github.io/Data-Visualization/final_project_yuhanh)
 
-> [The link to the Final project Part 2 page](https://hyh1997112.github.io/94870portfolio/final_project_part2)
+> [The link to the Final project Part 2 page](https://hyh1997112.github.io/Data-Visualization/final_project_part2)
 
-> [The link to the Final project Part 3 page](https://hyh1997112.github.io/94870portfolio/final_project_part3)
+> [The link to the Final project Part 3 page](https://hyh1997112.github.io/Data-Visualization/final_project_part3)
 
 > [The link to the Final project presentation page](https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html)
 
