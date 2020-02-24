@@ -1,5 +1,6 @@
 # Telling Stories with Data
 This portfolio is for the course of Telling Stories with Data - Spring 2020.
+There are some data visualization examples in this portfolio.
 
 # Introduction
 
