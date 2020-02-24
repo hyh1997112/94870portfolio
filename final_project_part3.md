@@ -1,6 +1,6 @@
 # Final project
 
-> [Access the homepage click here](https://hyh1997112.github.io/94870portfolio/)
+> [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
 # Part III: The final deliverable
 
