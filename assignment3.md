@@ -1,6 +1,6 @@
 # Assignment 3 & 4: Critique by Design
 
-> [Access the homepage click here](https://hyh1997112.github.io/94870portfolio/)
+> [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
 ## Step one: find a data visualization (with data you can use!)
 
