@@ -3,6 +3,7 @@
 > [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
 # Final project overview
+- [Final project website](https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html)
 
 ## The idea
 
@@ -11,7 +12,7 @@
 
 ### High-level summary (Part I)
 
-**Find a job based on senior's experience.**
+**Find Right Job Based on Data**
 
 In this project, I would like to visualize the career report of MISM global track at Heinz College to give some instructions to the current students in MISM program or students who want to apply for the program. The career reports on the Heinz website are in pdf format and it is very difficult to view the changes through years. Thus, I would like to visualize the MISM global track career data, including the employment rate, average salary, number of students who got offers from big companies. Showing these data could help current students or students who want to choose the program have a better career sight.
 
@@ -39,7 +40,7 @@ In this project, I would like to visualize the career report of MISM global trac
 6. Geographical distribution.
 * The main data used in this project is derived from this.
 * Data from Office of Foreign Labor Certification (OFLC) should be used to give some suggestions to the students.
-* Average salary data.
+* Also, the US average income data is included to provide a comparison.
 * Some pictures from Unsplash are used in shorthands to make the page more pretty.
 
 ### Data resources (Part I)
@@ -48,6 +49,8 @@ Data source:
 > [EMPLOYMENT INFORMATION & SALARY STATISTICS](https://www.heinz.cmu.edu/current-students/career-services/employment-information-salary-statistics)
 
 > [OFLC Performance Data](https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2019/H-1B_Selected_Statistics_FY2019_Q4.pdf)
+
+> [Real Disposable Personal Income: Per Capita [A229RX0]](https://fred.stlouisfed.org/series/A229RX0)
 
 Also find the pdf file in the github repository.
 > [Heinz data link](https://github.com/hyh1997112/94870portfolio/blob/master/data/CareerReport.pdf)
@@ -125,4 +128,5 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 - ![wireframe2](images/Wireframe2.png)
 
 ## Final data story
-https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html
+
+- [Final project website](https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html)
