@@ -22,8 +22,6 @@
       - [Finalize the story](#finalize-the-story)
     + [Final project website](#final-project-website)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 > [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
 # Final project overview
