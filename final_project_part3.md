@@ -2,11 +2,12 @@
 
 > [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
-# Part III: The final deliverable
+# Final project overview
 
 ## The idea
 
 ### Project outline (Part I)
+
 
 ### High-level summary (Part I)
 
