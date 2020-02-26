@@ -143,6 +143,12 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 
 #### Choose chart type for each part of data
 
+1. For the change in the number of graduates and the salary data in the project, because it is time-related data, I chose to use a line chart so that the audience can see the change through the past 6 years.
+2. I chose the stacked bar chart to show the employment rate data, and the audience could see the ratio of employed students to the proportion of unemployed students.
+3. I chose a pictorial chart to show the types of jobs graduates got, which can show the proportion of each type of job in a vivid way. The ten job types with the most H1B applications are finely divided. If use pictorial charts, it will look very messy, so use bubble charts is a good choice.
+4. I use word cloud charts to show employers so that listeners will have easy access to each employer's name and its data.
+5. For the geographical distribution of job offers, I use line charts to show trends in job offers that graduates have received in the past. For the geographic distribution of total data, using a map can clearly show the work places that graduates like to choose in the past.
+
 #### Finalize the story
 
 ### Final project website
