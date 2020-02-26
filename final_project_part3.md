@@ -67,7 +67,7 @@ Picture source:
 - [Photo 7](https://unsplash.com/photos/hpjSkU2UYSU) Photo by Carlos Muza on Unsplash
 - [Photo 8](https://unsplash.com/photos/5fNmWej4tAA) Photo by Helloquence on Unsplash
 
-### method and medium - Part I
+### Method and medium (Part I)
 
 The final visualization, I want to use **shorthand** to render.
 
@@ -128,5 +128,11 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 - ![wireframe2](images/Wireframe2.png)
 
 ## Final data story
+
+### Intended audience
+
+### Work I've done so far
+
+### Final project website
 
 - [Final project website](https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html)
