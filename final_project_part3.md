@@ -131,7 +131,17 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 
 ### Intended audience
 
+
 ### Work I've done so far
+
+#### Decide the data to use
+
+
+#### Design the logic of the story
+
+#### Choose chart type for each part of data
+
+#### Finalize the story
 
 ### Final project website
 
