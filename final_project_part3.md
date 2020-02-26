@@ -1,7 +1,28 @@
 
-[toc]
-
 # Final project
+- [Final project](#final-project)
+- [Final project overview](#final-project-overview)
+  * [The idea](#the-idea)
+    + [Project outline (Part I)](#project-outline--part-i-)
+    + [High-level summary (Part I)](#high-level-summary--part-i-)
+    + [Project structure(Part I)](#project-structure-part-i-)
+    + [Data sources (Part I)](#data-sources--part-i-)
+    + [Data resources (Part I)](#data-resources--part-i-)
+    + [Method and medium (Part I)](#method-and-medium--part-i-)
+  * [Design and user research](#design-and-user-research)
+    + [Sketches and storyboards (Part II)](#sketches-and-storyboards--part-ii-)
+    + [User research protocol and findings (Part II)](#user-research-protocol-and-findings--part-ii-)
+    + [Wireframes (Part II)](#wireframes--part-ii-)
+  * [Final data story](#final-data-story)
+    + [Intended audience](#intended-audience)
+    + [Work I've done so far](#work-i-ve-done-so-far)
+      - [Decide the data to use](#decide-the-data-to-use)
+      - [Design the logic of the story](#design-the-logic-of-the-story)
+      - [Choose chart type for each part of data](#choose-chart-type-for-each-part-of-data)
+      - [Finalize the story](#finalize-the-story)
+    + [Final project website](#final-project-website)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 > [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
 
