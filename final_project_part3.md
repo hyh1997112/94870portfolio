@@ -124,4 +124,4 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 - ![wireframe2](images/Wireframe2.png)
 
 ## Final data story
-
+https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html
