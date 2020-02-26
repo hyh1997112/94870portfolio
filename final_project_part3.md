@@ -136,6 +136,8 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 
 #### Decide the data to use
 
+- The main data used for this project is the data extracted from MISM Global program career report. The main datasets are students number, employment rate, salary, job type, top employers, and geographic information.
+- If only the data of MISM Global program is used, there is no comparison. Consequently, US average income data and H1B application data is included.
 
 #### Design the logic of the story
 
