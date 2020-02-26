@@ -1,3 +1,6 @@
+
+[TOC]
+
 # Final project
 
 > [Access the homepage click here](https://hyh1997112.github.io/Data-Visualization/)
@@ -5,7 +8,6 @@
 # Final project overview
 - [Final project website](https://carnegiemellon.shorthandstories.com/find-right-job-based-on-data/index.html)
 
-[TOC]
 
 ## The idea
 
