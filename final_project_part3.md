@@ -155,6 +155,10 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 
 #### Design the logic of the story
 
+- The first part needs to introduce the basic situation of the project. Introduce the number of students, basic salary and employment rate in the project.
+- The second part visualizes the specific data of employment reports, so that the audience has a certain understanding of the employment situation of graduates in previous years.
+- Last is the call for action part. Summarize the previous parts and provide some suggestions to the current student or students who want to apply for this program.
+
 #### Choose chart type for each part of data
 
 1. For the change in the number of graduates and the salary data in the project, because it is time-related data, I chose to use a line chart so that the audience can see the change through the past 6 years.
@@ -164,6 +168,8 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 5. For the geographical distribution of job offers, I use line charts to show trends in job offers that graduates have received in the past. For the geographic distribution of total data, using a map can clearly show the work places that graduates like to choose in the past.
 
 #### Finalize the story
+
+After finishing the webpage, I sent it to several students at Heinz College and let them revise my story. I deleted some redundant information and charts and made some small change to the final story.
 
 ### Final project website
 
