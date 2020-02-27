@@ -145,6 +145,8 @@ Finally, add charts and text again, review the entire webpage, and listen to oth
 
 ### Intended audience
 
+- At the beginning I planned to do employment report for all Heinz projects. In this case, my audience should be all Heinz students and students who want to apply for Heinz projects. Another possible audience is a career advisor at Heinz College. But after reading the employment reports of previous years, I found it difficult to compile employment data for all projects. Heinz's projects are mainly divided into three categories, one is information system management, another is public policy management, and the other is entertainment art management. If I focus on one type of information system management project, then this story is not useful for students of public policy or entertainment management. 
+- Therefore, I chose to focus on one project. After data selected, my audience narrowed to a smaller range. Finally, the audience of my story is mainly students of MISM Global and students who want to apply for MISM Global project. At the same time, this project is also very helpful to the ordinary MISM students, because the curriculum of all MISM program is similar. Career advisors are still potential audience.
 
 ### Work I've done so far
 
