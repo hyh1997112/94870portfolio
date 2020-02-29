@@ -56,19 +56,12 @@ limitations
 - Skills: Data Visualization
 - Some Resources:
 > [Data USA Visualization Tool](https://datausa.io/visualize)
-
 > [RAWGraphs](https://rawgraphs.io/)
-
 > [Datawrapper](https://www.datawrapper.de/)
-
 > [Morph](https://app.morph.graphics/)
-
 > [TwoTone](https://app.twotone.io/)
-
 > [Balsamiq](https://balsamiq.com/)
-
 > [Vega](https://vega.github.io/vega/examples/)
-
 
 ## Visualization Samples
 
