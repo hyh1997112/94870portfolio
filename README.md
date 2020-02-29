@@ -55,13 +55,13 @@ limitations
 - Tools: Tableau, RAWGraphs, Datawapper, Infogram, Shorthand
 - Skills: Data Visualization
 - Some Resources:
-> [Data USA Visualization Tool](https://datausa.io/visualize)
-> [RAWGraphs](https://rawgraphs.io/)
-> [Datawrapper](https://www.datawrapper.de/)
-> [Morph](https://app.morph.graphics/)
-> [TwoTone](https://app.twotone.io/)
-> [Balsamiq](https://balsamiq.com/)
-> [Vega](https://vega.github.io/vega/examples/)
+1. [Data USA Visualization Tool](https://datausa.io/visualize)
+2. [RAWGraphs](https://rawgraphs.io/)
+3. [Datawrapper](https://www.datawrapper.de/)
+4. [Morph](https://app.morph.graphics/)
+5. [TwoTone](https://app.twotone.io/)
+6. [Balsamiq](https://balsamiq.com/)
+7. [Vega](https://vega.github.io/vega/examples/)
 
 ## Visualization Samples
 
