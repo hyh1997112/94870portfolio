@@ -34,9 +34,8 @@ A student in MISM-Global program at Carnegie Mellon University.
 - 95702 Distributed System for Information System Management
 - 17681 Java for Application Programmer
 
-## What I have learned from 94870 Telling Stories with Data
-- Tools:
-- Skills:
+## Learning Goals
+
 - Familiarity with data visualization and information design theory, fundamentals, and
 ethics – e.g., accuracy, honesty, and transparency
 
@@ -48,5 +47,10 @@ cognitive biases, color psychology
 - Experimentation with prominent data visualization tools to understand best fits and
 limitations
 
-## Portfolio 
-This portfolio is maily to show the data visualizations I have made for the 94870 Telling Stories with Data Course.
+
+## What I have learned from 94870 Telling Stories with Data
+- Tools: Tableau, RAWGraphs, Datawapper, Infogram, Shorthand
+- Skills: Data Visualization
+
+
+## Visualization Samples
