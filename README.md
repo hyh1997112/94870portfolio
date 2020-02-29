@@ -34,6 +34,9 @@ A student in MISM-Global program at Carnegie Mellon University.
 - 95702 Distributed System for Information System Management
 - 17681 Java for Application Programmer
 
+
+# Data Visualization Course
+
 ## Learning Goals
 
 - Familiarity with data visualization and information design theory, fundamentals, and
